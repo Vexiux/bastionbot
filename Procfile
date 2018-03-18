@@ -1,1 +1,1 @@
-worker: node 
+worker: node bastion.js
